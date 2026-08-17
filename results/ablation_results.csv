@@ -1,0 +1,7 @@
+embedding,classifier,f1,precision,recall
+all-MiniLM-L6-v2,logistic_regression,0.8917,0.9829,0.816
+all-MiniLM-L6-v2,xgboost,0.8761,0.9976,0.781
+all-MiniLM-L6-v2,mlp,0.9155,0.9998,0.8443
+intfloat/e5-large-v2,logistic_regression,0.9674,0.995,0.9412
+intfloat/e5-large-v2,xgboost,0.9606,0.9993,0.9248
+intfloat/e5-large-v2,mlp,0.9512,0.9998,0.9071

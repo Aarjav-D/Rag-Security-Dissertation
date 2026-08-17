@@ -1,0 +1,4 @@
+classifier,embedding,test_set,f1,precision,recall
+logistic_regression,MiniLM,paraphrased,0.5319,1.0,0.3623
+xgboost,MiniLM,paraphrased,0.4342,1.0,0.2773
+mlp,MiniLM,paraphrased,0.6065,1.0,0.4352

@@ -1,0 +1,7 @@
+classifier,training,test_set,f1,precision,recall
+logistic_regression,augmented,standard,0.8997,0.9812,0.8307
+logistic_regression,augmented,paraphrased,0.6354,1.0,0.4656
+xgboost,augmented,standard,0.9029,0.9968,0.8252
+xgboost,augmented,paraphrased,0.6685,1.0,0.502
+mlp,augmented,standard,0.9331,0.9997,0.8748
+mlp,augmented,paraphrased,0.867,1.0,0.7652
